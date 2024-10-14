@@ -1,4 +1,3 @@
-CelineFernandes/README.md
 👋 Hi, I'm Céline Fernandes! Welcome to my world of development!
 
 👀 I’m interested in exploring new technologies, refining coding skills, and building innovative solutions.
